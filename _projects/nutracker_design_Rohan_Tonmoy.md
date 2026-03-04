@@ -32,10 +32,10 @@
 
   Thus, the final results for the dimensions were:
   **L = 22.2 cm
-  l<sub>1</sub> = 5.0 cm
-  l<sub>2</sub> = 17.2 cm
-  h<sub>1</sub> = 3.0 cm
-  h<sub>2</sub> = 13.32 cm**
+  l<sub>1</sub> = 5.0 cm,
+  l<sub>2</sub> = 17.2 cm,
+  h<sub>1</sub> = 3.0 cm,
+  and h<sub>2</sub> = 13.32 cm**
 
 **Discussion on Usability of Design:**
  
