@@ -38,4 +38,5 @@
   h<sub>2</sub> = 13.32 cm**
 
 **Discussion on Usability of Design:**
+ 
   This designed nutcracker should be usable, as the dimensions permit for the complete enclosing of a macadamia nut in the allocated macadamia nut holder. This restraint was ensured by setting the height h<sub>2</sub> to be greater than the 2.0 cm average diameter of a macadamia nut. The 1.0 cm difference between these two values would account for the vertical thickness of the handle between point B and the upper edge as seen from the free body diagram axes in the image above. Also, when these calculated dimensions are substitued back into the net moment equation about point A, the result is that the net moment about point A is 0, ensuring static equilibrium. Thus, the calculated dimensions in this simple macadamia nutcracker design should be usable.
